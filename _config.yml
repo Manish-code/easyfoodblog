@@ -30,6 +30,7 @@ twitter_username: imManishNarayan
 github_username:  Manish-code
 instagram_username: manish__narayan
 
+root: /octo-5
 # Build settings
 theme: minima
 plugins:
