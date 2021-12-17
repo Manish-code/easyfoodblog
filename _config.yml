@@ -31,7 +31,7 @@ github_username:  Manish-code
 instagram_username: manish__narayan
 
 # Build settings
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
