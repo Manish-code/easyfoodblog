@@ -31,7 +31,7 @@ github_username:  Manish-code
 instagram_username: manish__narayan
 
 # Build settings
-theme: minima
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
 
